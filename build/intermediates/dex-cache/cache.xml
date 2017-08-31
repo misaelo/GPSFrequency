@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Misael\AndroidStudioProjects\GPSFrequency\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="35cfc257c064ff31f3c7cafadb73507ba7ef4dcc">
+        <dex dex="C:\Users\Misael\AndroidStudioProjects\GPSFrequency\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e620aacfc44b05a82358556288fcd9073ddbff45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Misael\.android\build-cache\23e71a724b69daf7161fcd8d6afe655064db3f50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\Users\Misael\AndroidStudioProjects\GPSFrequency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fa180d5c93bd23cd8e92b18c36737b31dc973af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Misael\.android\build-cache\b35f10178a0137741130e7f00f375e32b9ccb5f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\Users\Misael\AndroidStudioProjects\GPSFrequency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_185bc7c5c83345f6b4116b105ab34cc3e348fed1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Misael\AndroidStudioProjects\GPSFrequency\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Misael\AndroidStudioProjects\GPSFrequency\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_061db43013f135b3cd3955649783cdd30e2bd478\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Misael\.android\build-cache\d981a416666cb9fc4c527dd48db511baeed8087b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\Users\Misael\AndroidStudioProjects\GPSFrequency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30a5f50dbb0ea97add4f12ee539a5df16dc0833c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Misael\.android\build-cache\8fb4746c9f3ed0acc266d84375f557947ed45f0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\Users\Misael\AndroidStudioProjects\GPSFrequency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4d8201c6a474d337bd3b881b14b9a008ebd0ee4\classes.dex" />
+    </item>
+
+</items>

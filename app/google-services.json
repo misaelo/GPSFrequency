@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "600076087504",
+    "firebase_url": "https://frequencyprueba-147620.firebaseio.com",
+    "project_id": "frequencyprueba-147620",
+    "storage_bucket": "frequencyprueba-147620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600076087504:android:9bc0f9c3fa104649",
+        "android_client_info": {
+          "package_name": "com.misael.tesis.frequency.app.frequencyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600076087504-fakb0l37r74n58d5p68l3afoce3t4ar9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.misael.tesis.frequency.app.frequencyapp",
+            "certificate_hash": "5DD1347F73FE7439D2918E408C89594F4887EF59"
+          }
+        },
+        {
+          "client_id": "600076087504-pang66498vur3p47ol8vn8qk3ftrf2sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcKYGuW1vZbldeneJT9F_8u8NAVM24Iek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600076087504-pang66498vur3p47ol8vn8qk3ftrf2sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600076087504:android:d6809427798011f0",
+        "android_client_info": {
+          "package_name": "com.misael.tesis.frequency.app.frequencygps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600076087504-pvfoouqjn63obblml52eler6l6l3t5hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.misael.tesis.frequency.app.frequencygps",
+            "certificate_hash": "5DD1347F73FE7439D2918E408C89594F4887EF59"
+          }
+        },
+        {
+          "client_id": "600076087504-pang66498vur3p47ol8vn8qk3ftrf2sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcKYGuW1vZbldeneJT9F_8u8NAVM24Iek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600076087504-pang66498vur3p47ol8vn8qk3ftrf2sf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600076087504:android:96656604ccae141a",
+        "android_client_info": {
+          "package_name": "com.misael.tesis.frequency.app.gpsfrequency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600076087504-pang66498vur3p47ol8vn8qk3ftrf2sf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcKYGuW1vZbldeneJT9F_8u8NAVM24Iek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

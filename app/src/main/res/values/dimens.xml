@@ -1,0 +1,29 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">300dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="text_size">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="item_width">200dp</dimen>
+    <dimen name="item_heigt">250dp</dimen>
+    <dimen name="cien">100dp</dimen>
+    <dimen name="obv">240dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="docedp">12dp</dimen>
+    <dimen name="view">1dp</dimen>
+    <dimen name="viewpeque">0.7dp</dimen>
+    <dimen name="sangria">32dp</dimen>
+    <dimen name="textmain">30dp</dimen>
+    <dimen name="subtexmain">20dp</dimen>
+    <dimen name="textmanins">24dp</dimen>
+    <dimen name="marlogin">24dp</dimen>
+    <dimen name="icopregunta">50dp</dimen>
+    <dimen name="padd">64dp</dimen>
+    <dimen name="imgLogo">119dp</dimen>
+    <dimen name="mitad">180dp</dimen>
+    <dimen name="img">48dp</dimen>
+    <dimen name="imgUser">64dp</dimen>
+</resources>
